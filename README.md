@@ -2,7 +2,7 @@
 
 A clean and simple task management application with LocalStorage persistence.
 
-## ✨ Features
+## ✨ Features 
 
 - ➕ Add new tasks
 - ✅ Mark tasks as complete
