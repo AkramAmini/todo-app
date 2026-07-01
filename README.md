@@ -1,7 +1,4 @@
-Live URL:http://todo-app-amini.netlify.app
-
-
- To-Do App
+To-Do App
 
 A clean and simple task management application with LocalStorage persistence.
 
