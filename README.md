@@ -1,23 +1,14 @@
-To-Do App
+# 📝 Todo App
 
-A clean and simple task management application with LocalStorage persistence.
+A clean, intuitive, and modern Todo Application designed to manage daily tasks efficiently. This project focuses on clean UI/UX, responsive form elements, and structured layouts for task tracking.
 
- Features 
+##✨ Features
+- **User-Friendly Interface:** Minimalist and modern design for a distraction-free task management experience.
+- **Task Structure:** Organized lists with clear text styling and interactive elements.
+- **100% Responsive:** Fully optimized to function smoothly and look great on both mobile devices and desktops.
+- **Clean Semantic Markup:** Built with accessible HTML form elements and structured list containers.
 
- Add new tasks
- Mark tasks as complete
- Delete individual tasks
- Filter tasks: All / Active / Completed
- Auto-save to LocalStorage
- Fully responsive design
- Smooth animations
-Keyboard shortcuts
+##  Tech Stack
+- **HTML5** (Forms, inputs, and semantic list elements)
+- **CSS3** (Flexbox for alignment, custom layout spacing, and smooth interactive transitions)
 
- Quick Start
-
-Simply open `index.html` in your browser. No dependencies or server required!
-
-```bash
-# Or use Live Server (VS Code)
-npx live-server
-```
