@@ -15,6 +15,7 @@ A clean, intuitive, and modern Todo Application designed to manage daily tasks e
 ##  Live Demo
 https://todo-app-amini.netlify.app/
 
+ ## Screenshots
 <p align="center">
   <img src="https://github.com/user-attachments/assets/2f5d4809-f8f9-428b-8544-edd1ca3854b9" width="600" alt="Todo App Preview" />
 </p>
